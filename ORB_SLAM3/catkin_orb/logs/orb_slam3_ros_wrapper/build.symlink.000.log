@@ -1,0 +1,8 @@
+Symlinking /ORB_SLAM3/catkin_orb/devel/lib/pkgconfig/orb_slam3_ros_wrapper.pc
+Symlinking /ORB_SLAM3/catkin_orb/devel/lib/orb_slam3_ros_wrapper/orb_slam3_ros_wrapper_mono
+Symlinking /ORB_SLAM3/catkin_orb/devel/lib/orb_slam3_ros_wrapper/orb_slam3_ros_wrapper_rgbd
+Symlinking /ORB_SLAM3/catkin_orb/devel/lib/orb_slam3_ros_wrapper/orb_slam3_ros_wrapper_mono_inertial
+Symlinking /ORB_SLAM3/catkin_orb/devel/lib/orb_slam3_ros_wrapper/orb_slam3_ros_wrapper_stereo_inertial
+Symlinking /ORB_SLAM3/catkin_orb/devel/lib/orb_slam3_ros_wrapper/orb_slam3_ros_wrapper_stereo
+Symlinking /ORB_SLAM3/catkin_orb/devel/share/orb_slam3_ros_wrapper/cmake/orb_slam3_ros_wrapperConfig.cmake
+Symlinking /ORB_SLAM3/catkin_orb/devel/share/orb_slam3_ros_wrapper/cmake/orb_slam3_ros_wrapperConfig-version.cmake

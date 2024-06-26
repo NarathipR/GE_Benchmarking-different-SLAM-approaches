@@ -1,0 +1,6 @@
+devel_space: /ORB_SLAM3/catkin_orb/devel
+install: false
+install_space: /ORB_SLAM3/catkin_orb/install
+profile: default
+source_space: /ORB_SLAM3/catkin_orb/src
+workspace: /ORB_SLAM3/catkin_orb

@@ -1,0 +1,8 @@
+prefix=/ORB_SLAM3/catkin_orb/devel/.private/orb_slam3_ros_wrapper
+
+Name: orb_slam3_ros_wrapper
+Description: Description of orb_slam3_ros_wrapper
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -l{PROJECT_NAME}
+Requires: roscpp rospy std_msgs cv_bridge image_transport tf sensor_msgs message_runtime

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /ORB_SLAM3/catkin_orb/devel/.private/orb_slam3_ros_wrapper/setup.sh

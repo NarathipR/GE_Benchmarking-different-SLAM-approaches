@@ -1,0 +1,5 @@
+[ 53%] Built target orb_slam3_ros_wrapper_stereo
+[ 53%] Built target orb_slam3_ros_wrapper_mono
+[ 60%] Built target orb_slam3_ros_wrapper_mono_inertial
+[ 80%] Built target orb_slam3_ros_wrapper_rgbd
+[100%] Built target orb_slam3_ros_wrapper_stereo_inertial
