@@ -1,1 +1,0 @@
-/ORB_SLAM3/catkin_orb/devel/.private/orb_slam3_ros_wrapper/share/orb_slam3_ros_wrapper/cmake/orb_slam3_ros_wrapperConfig-version.cmake
