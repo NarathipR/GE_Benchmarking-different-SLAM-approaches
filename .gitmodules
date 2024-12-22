@@ -1,0 +1,6 @@
+[submodule "algorithms/ORB-SLAM3/src_and_setup/orbslam3_docker"]
+	path = algorithms/ORB-SLAM3/src_and_setup/orbslam3_docker
+	url = https://github.com/jahaniam/orbslam3_docker.git
+[submodule "algorithms/LSD-SLAM/src_and_setup/lsd_slam"]
+	path = algorithms/LSD-SLAM/src_and_setup/lsd_slam
+	url = https://github.com/tum-vision/lsd_slam.git
