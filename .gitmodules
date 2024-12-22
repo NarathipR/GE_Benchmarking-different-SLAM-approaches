@@ -4,3 +4,6 @@
 [submodule "algorithms/LSD-SLAM/src_and_setup/lsd_slam"]
 	path = algorithms/LSD-SLAM/src_and_setup/lsd_slam
 	url = https://github.com/tum-vision/lsd_slam.git
+[submodule "algorithms/OpenVSLAM/src_and_setup/stella_vslam"]
+	path = algorithms/OpenVSLAM/src_and_setup/stella_vslam
+	url = https://github.com/stella-cv/stella_vslam.git
